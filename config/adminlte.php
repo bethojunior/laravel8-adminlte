@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Selecty',
+    'title' => 'Laravel',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -225,7 +225,7 @@ return [
     */
 
     'menu' => [
-        ['header' => 'Gestão de candidatos'],
+        ['header' => 'Perfil'],
         [
             'text' => 'profile',
             'url'  => 'admin/settings',
